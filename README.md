@@ -37,7 +37,7 @@ I enjoy working with complex data, turning it into **structured insights** that 
 - Analyzed **240K+ games** to understand pricing dynamics in the Steam ecosystem  
 - Performed EDA to uncover relationships between game features and prices  
 - Built regression-based models to analyze key price drivers  
-👉 [View Project]([https://github.com/tmy-datamesa](https://github.com/tmy-datamesa/steam-dataset-2025-insights))
+👉 [View Project]([https://github.com/tmy-datamesa](https://github.com/tmy-datamesa/steam-dataset-2025-insights)
 
 ---
 
@@ -46,7 +46,7 @@ I enjoy working with complex data, turning it into **structured insights** that 
 - End-to-end analysis of **100K+ e-commerce orders**  
 - Focused on customer behavior and order lifecycle metrics  
 - Delivered business-oriented insights through structured analysis  
-👉 [View Project]([https://github.com/tmy-datamesa](https://github.com/tmy-datamesa/Olist-ECommerce-SQL-Python-CaseStudy))
+👉 [View Project]([https://github.com/tmy-datamesa](https://github.com/tmy-datamesa/Olist-ECommerce-SQL-Python-CaseStudy)
 
 ---
 
