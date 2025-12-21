@@ -6,7 +6,7 @@ I focus on turning complex data into **clear, actionable insights**.
 ---
 
 ## 🔧 Tech Stack
-- **Python, SQL, BigQuery**
+- **Python, BigQuery SQL**
 - Pandas, NumPy, Scikit-Learn
 - Power BI, Looker Studio
 - Machine Learning, NLP, Generative AI
