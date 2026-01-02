@@ -22,8 +22,3 @@ I focus on turning complex data into **clear, actionable insights**.
   End-to-end analysis of 100K+ orders focusing on customer behavior.  
   🔗 [View repository](https://github.com/tmy-datamesa/Olist-ECommerce-SQL-Python-CaseStudy)
 
----
-
-## 🎓 Currently
-- **Workintech – Data Scientist & AI Program**  
-  (960+ hours, 70+ projects)
