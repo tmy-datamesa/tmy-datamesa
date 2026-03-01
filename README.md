@@ -30,3 +30,4 @@ I have a strong foundation in Machine Learning and a specialized interest in Dee
 
 - **Email:** tumayturhan01@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/tumay-turhan/](https://www.linkedin.com/in/tumay-turhan/)
+
