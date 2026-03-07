@@ -32,3 +32,43 @@ I blend finance and engineering with AI to make sure models don't just work, but
 
 ### 📫 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/tumay-turhan/) | [Email](mailto:tumayturhan01@gmail.com)
+
+
+# Hi, I'm Tümay 👋
+
+Data scientist with a background in engineering and finance, interested in how AI and data systems can turn complex problems into practical solutions.
+
+I enjoy building things that are both **analytically sound and actually useful** — from machine learning models to LLM-powered tools and decision-support systems.
+
+Outside of code, I’m curious about **history, philosophy, and technology**, and I have a soft spot for **puzzle-like problems** that make you stop and think.
+
+---
+
+## What I work on
+
+- **AI & LLM systems** – building practical applications with language models and retrieval systems  
+- **Machine learning** – predictive models and data-driven analysis  
+- **Data platforms & dashboards** – turning raw data into clear insights  
+
+---
+
+## Tools I often use
+
+**Python · SQL · BigQuery · Scikit-learn · XGBoost · LangChain · RAG · MLflow · FastAPI · Streamlit · Power BI · Looker Studio · Docker**
+
+---
+
+## A few things about me
+
+- I like systems that are **simple, clear, and well designed**  
+- I enjoy conversations about **ideas, technology, and history**  
+- I believe good data work is not only about models — it’s about **understanding the problem**
+
+---
+
+## Connect
+
+📍 Istanbul  
+
+[LinkedIn](https://www.linkedin.com/in/tumay-turhan/) •  
+[Email](mailto:tumayturhan01@gmail.com)
