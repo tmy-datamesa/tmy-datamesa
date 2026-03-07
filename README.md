@@ -1,12 +1,12 @@
 # Hi there, I'm Tümay! 👋 
 
-### 🧠 Data Scientist | LLM Whisperer 🔮
+### Data Scientist
 
 Data scientist with a background in engineering and finance, interested in how AI and data systems can turn complex problems into practical solutions.
 I enjoy building things that are both **analytically sound and actually useful** — from machine learning models to LLM-powered tools and decision-support systems.
 Outside of code, I’m curious about **history, philosophy, and technology**, and I have a soft spot for **puzzle-like problems** that make you stop and think.
 
-**Motto:** *"Embrace AI’s potential, manage its risks carefully, and remember the humans using it. ✨"*
+*"Embrace AI’s potential, manage its risks carefully and remember the humans using it. ✨"*
 
 ---
 
