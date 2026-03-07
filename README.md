@@ -22,6 +22,15 @@ Outside of code, I’m curious about **history, philosophy, and technology**, an
 - 🎥 **[yt-insight-hub](https://github.com/tmy-datamesa/yt-insight-hub)**: Turning YouTube comment chaos into structured sentiment data.
 - 🎮 **[steam-insights](https://github.com/tmy-datamesa/steam-dataset-2025-insights)**: Data-driven market analysis for 240k+ games.
 
+- | Repo                                         | Yeni Açıklama                                                                |
+| :------------------------------------------- | :--------------------------------------------------------------------------- |
+| ⚖️ **kmk-deploy**                            | AI Legal Assistant for Turkish Condominium Law.                              |
+| 🎥 **yt-insight-hub**                        | Turning YouTube comment chaos into structured sentiment data.                |
+| 🎮 **steam-dataset-2025-insights**           | Data-driven market analysis & price prediction for 240k+ games.              |
+| 📊 **CEO\_talebi\_takim1**                   | Translating operational metrics into financial impact. C-level BI dashboard. |
+| 📈 **PowerBI-TheLook-ECommerce-Analysis**    | E-commerce performance analytics with Power BI & DAX.                        |
+| 🗃️ **Olist-ECommerce-SQL-Python-CaseStudy** | Deep-dive SQL case study on 100k+ orders in BigQuery.                        |
+
 ---
 
 ### ✨ Random Facts
