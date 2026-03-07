@@ -21,8 +21,8 @@ Outside of code, I’m curious about **history, philosophy, and technology**, an
 - ⚖️ **[kmk-deploy](https://github.com/tmy-datamesa/kmk-deploy)**: AI Legal Assistant for Turkish Condominium Law.
 - 🎥 **[yt-insight-hub](https://github.com/tmy-datamesa/yt-insight-hub)**: Turning YouTube comment chaos into structured sentiment data.
 - 🎮 **[steam-insights](https://github.com/tmy-datamesa/steam-dataset-2025-insights)**: Data-driven market analysis for 240k+ games.
-- ⚖️ **[PowerBI-TheLook-ECommerce-Analysis](https://github.com/tmy-datamesa/kmk-deploy)**: E-commerce performance analytics with Power BI & DAX.
-- 🎥 **[Olist-ECommerce-SQL-Python-CaseStudy](https://github.com/tmy-datamesa/yt-insight-hub)**:  Deep-dive SQL case study on 100k+ orders in BigQuery.
+- ⚖️ **[PowerBI-TheLook-ECommerce-Analysis](https://github.com/tmy-datamesa/PowerBI-TheLook-ECommerce-Analysis)**: E-commerce performance analytics with Power BI & DAX.
+- 🎥 **[Olist-ECommerce-SQL-Python-CaseStudy](https://github.com/tmy-datamesa/Olist-ECommerce-SQL-Python-CaseStudy)**:  Deep-dive SQL case study on 100k+ orders in BigQuery.
 
 ---
 
