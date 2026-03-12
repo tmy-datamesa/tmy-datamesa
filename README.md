@@ -29,6 +29,4 @@ Outside of code, I’m drawn to **history, philosophy, and anthropology** — fi
 - **Machine learning** – predictive models and data-driven analysis  
 - **Data platforms & dashboards** – turning raw data into clear insights
 
----
-
 
