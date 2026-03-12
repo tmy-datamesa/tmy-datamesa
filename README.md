@@ -31,7 +31,4 @@ Outside of code, I’m drawn to **history, philosophy, and anthropology** — fi
 
 ---
 
-### 📫 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/tumay-turhan/) | [Email](mailto:tumayturhan01@gmail.com)
-
 
