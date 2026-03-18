@@ -4,7 +4,7 @@ Data scientist with a background in **engineering and finance**, interested in h
 I enjoy building things that are both **analytically sound** and **actually useful** — from machine learning models to **LLM-powered tools** and **decision-support systems**.
 Outside of code, I’m drawn to **history, philosophy, and anthropology** — fields that explore how humans think, evolve, and make sense of the world. 
 
-*"Embrace AI’s potential, manage its risks carefully and remember the humans using it. ✨"*
+*Embrace AI’s potential, manage its risks carefully and remember the humans using it. ✨*
 
 ---
 
