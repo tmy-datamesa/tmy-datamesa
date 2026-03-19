@@ -8,19 +8,73 @@ Outside of code, I’m drawn to **history, philosophy, and anthropology** — fi
 
 ---
 
-### 🛠️ Tech Stack & Focus    
-- **AI/LLM:** `LangChain`, `RAGAS`, `OpenAI`, `ChromaDB`, `MLflow`
-- **Data:** `Python`, `SQL`, `BigQuery`, `Power BI`, `Looker Studio`
-- **Deploy:** `FastAPI`, `Streamlit`, `Docker`, `GCP`
+### 🛠️ Tech Stack & Focus 
+
+| Area | Technologies |
+|---|---|
+| **AI / LLM** | LangChain, OpenAI API, ChromaDB, Sentence-Transformers, RAGAS, MLflow |
+| **ML / Data** | Python, Pandas, NumPy, scikit-learn, Statsmodels, Prophet, HuggingFace |
+| **Data Engineering** | BigQuery, dbt, SQL |
+| **Visualization** | Power BI, Looker Studio, Streamlit |
+| **Deploy** | FastAPI, Docker, Google Cloud Run, GCP Artifact Registry, Vercel |
+| **Other** | Git, Makefile, Ollama, Gemini |
 
 ---
 
 ### 🔬 Featured Projects
-- ⚖️ **[kmk-deploy](https://github.com/tmy-datamesa/kmk-deploy)**: AI Legal Assistant for Turkish Condominium Law.
-- 🎥 **[yt-insight-hub](https://github.com/tmy-datamesa/yt-insight-hub)**: Turning YouTube comment chaos into structured sentiment data.
-- 🎮 **[steam-insights](https://github.com/tmy-datamesa/steam-dataset-2025-insights)**: Data-driven market analysis for 240k+ games.
-- ⚖️ **[PowerBI-TheLook-ECommerce-Analysis](https://github.com/tmy-datamesa/PowerBI-TheLook-ECommerce-Analysis)**: E-commerce performance analytics with Power BI & DAX.
-- 🎥 **[Olist-ECommerce-SQL-Python-CaseStudy](https://github.com/tmy-datamesa/Olist-ECommerce-SQL-Python-CaseStudy)**:  Deep-dive SQL case study on 100k+ orders in BigQuery.
+
+### [kmk-deploy](https://github.com/tmy-datamesa/kmk-deploy) — Multi-Law Legal RAG Agent ⚖️
+> AI legal assistant for Turkish condominium and neighborhood law. Agentic RAG architecture with 6 separate law sources.
+
+- **Architecture:** Streamlit frontend → FastAPI backend on Cloud Run → GPT-4o with Function Calling → ChromaDB vector search across 6 law collections
+- **Key decisions:** Agentic routing (LLM decides which law to query), chunking optimized for legal text structure (KISIM, BOLUM, Madde separators), microservice split for independent scaling
+- **MLOps:** RAGAS evaluation (Faithfulness, Answer Relevancy) + MLflow experiment tracking
+- **Stack:** `Python` `OpenAI` `ChromaDB` `FastAPI` `Docker` `Cloud Run` `Streamlit` `MLflow` `RAGAS`
+- **Live:** [Streamlit App](https://kmk-deploy-csnu3xbifrnaixgypfsa93.streamlit.app) | [API Docs](https://legal-rag-api-232706383774.europe-west1.run.app/docs)
+
+---
+
+### [yt-insight-hub](https://github.com/tmy-datamesa/yt-insight-hub) — YouTube Comment Analytics Pipeline 🎥
+> End-to-end pipeline that turns YouTube comments into structured sentiment, topic, and aspect-level insights.
+
+- **Pipeline:** YouTube API → BigQuery (raw/core/ml layers) → LLM inference (GPT-4o-mini) → Streamlit dashboard + Looker Studio
+- **NLP output per comment:** General sentiment, topic classification, aspect-based sentiment with evidence, strategic signals (purchase intent, competitor comparison, questions)
+- **Data architecture:** 3-layer BigQuery schema (raw → curated → ml), ontology-driven topic/aspect taxonomy, reporting views for BI tools
+- **Stack:** `Python` `OpenAI` `BigQuery` `Streamlit` `Looker Studio` `YouTube API`
+- **Live:** [Looker Dashboard](https://lookerstudio.google.com/s/gbf4u5q04WM)
+
+---
+
+### [steam-dataset-2025-insights](https://github.com/tmy-datamesa/steam-dataset-2025-insights) — Steam Market Analysis & Price Prediction 🎮
+> Data-driven market analysis and price prediction for 240k+ Steam games. EDA, segmentation, and ML pipeline.
+
+- **Scope:** Exploratory data analysis on 240k+ games, customer segmentation, price prediction modeling, time series forecasting with Prophet
+- **ML pipeline:** Feature engineering → model selection → evaluation, with dbt for data transformation
+- **Stack:** `Python` `Pandas` `scikit-learn` `Prophet` `dbt` `Jupyter`
+
+---
+
+### [PowerBI-TheLook-ECommerce-Analysis](https://github.com/tmy-datamesa/PowerBI-TheLook-ECommerce-Analysis) — E-Commerce BI Dashboard
+> Performance analytics dashboard for TheLook e-commerce dataset using Power BI and DAX.
+
+- **Focus:** Revenue trends, product category performance, customer acquisition metrics, cohort analysis
+- **Stack:** `Power BI` `DAX` `BigQuery`
+
+---
+
+### [CEO_talebi_takim1](https://github.com/tmy-datamesa/CEO_talebi_takim1) — C-Level BI Dashboard
+> Translating operational metrics into financial impact. Executive-level BI dashboard built as a team project.
+
+- **Focus:** Operational KPIs mapped to financial outcomes, designed for C-suite decision-making
+- **Stack:** `Python` `Power BI`
+
+---
+
+### [Data-Mesa-Focus](https://github.com/tmy-datamesa/Data-Mesa-Focus) — Focus Environment App 🌿
+> A minimal focus environment with music, night sky ambience, and reflective tools. Personal brand project.
+
+- **Stack:** `TypeScript` `Vercel`
+- **Live:** [thinkslow.vercel.app](https://thinkslow.vercel.app/)
 
 ---
 
@@ -29,4 +83,9 @@ Outside of code, I’m drawn to **history, philosophy, and anthropology** — fi
 - **Machine learning** – predictive models and data-driven analysis  
 - **Data platforms & dashboards** – turning raw data into clear insights
 
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tmy-datamesa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmy-datamesa&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
