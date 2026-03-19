@@ -12,12 +12,12 @@ Outside of code, I’m drawn to **history, philosophy, and anthropology** — fi
 
 | Area | Technologies |
 |---|---|
-| **AI / LLM** | LangChain, OpenAI API, ChromaDB, Sentence-Transformers, RAGAS, MLflow |
-| **ML / Data** | Python, Pandas, NumPy, scikit-learn, Statsmodels, Prophet, HuggingFace |
-| **Data Engineering** | BigQuery, dbt, SQL |
-| **Visualization** | Power BI, Looker Studio, Streamlit |
-| **Deploy** | FastAPI, Docker, Google Cloud Run, GCP Artifact Registry, Vercel |
-| **Other** | Git, Makefile, Ollama, Gemini |
+| **Languages & Data** | Python, SQL |
+| **LLM / GenAI** | RAG, Agentic Workflows, LLM Evaluation, OpenAI API, Embeddings, Vector Databases, Structured Output Design, Prompt Engineering |
+| **ML / NLP** | scikit-learn, XGBoost, NLP, Transformers, Time Series Forecasting |
+| **Analytics & BI** | BigQuery, Looker Studio, Power BI, EDA, Feature Engineering, Data Visualization |
+| **Deployment** | Docker, MLflow, Google Cloud Run, Vercel, Git, GitHub |
+| **AI-Assisted Dev** | Cursor, Claude Code, GitHub Copilot |
 
 ---
 
@@ -59,14 +59,6 @@ Outside of code, I’m drawn to **history, philosophy, and anthropology** — fi
 
 - **Focus:** Revenue trends, product category performance, customer acquisition metrics, cohort analysis
 - **Stack:** `Power BI` `DAX` `BigQuery`
-
----
-
-### [CEO_talebi_takim1](https://github.com/tmy-datamesa/CEO_talebi_takim1) — C-Level BI Dashboard
-> Translating operational metrics into financial impact. Executive-level BI dashboard built as a team project.
-
-- **Focus:** Operational KPIs mapped to financial outcomes, designed for C-suite decision-making
-- **Stack:** `Python` `Power BI`
 
 ---
 
