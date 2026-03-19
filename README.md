@@ -12,7 +12,7 @@ Outside of code, I’m drawn to **history, philosophy, and anthropology** — fi
 
 | Area | Technologies |
 |---|---|
-| **Languages & Data** | Python, SQL |
+| **Languages** | Python, SQL |
 | **LLM / GenAI** | RAG, Agentic Workflows, LLM Evaluation, OpenAI API, Embeddings, Vector Databases, Structured Output Design, Prompt Engineering |
 | **ML / NLP** | scikit-learn, XGBoost, NLP, Transformers, Time Series Forecasting |
 | **Analytics & BI** | BigQuery, Looker Studio, Power BI, EDA, Feature Engineering, Data Visualization |
