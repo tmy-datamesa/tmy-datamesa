@@ -13,11 +13,11 @@ Outside of code, I’m drawn to **history, philosophy, and anthropology** — fi
 | Area | Technologies |
 |---|---|
 | **Languages** | Python, SQL |
-| **LLM / GenAI** | RAG, Agentic Workflows, LLM Evaluation, OpenAI API, Embeddings, Vector Databases, Structured Output Design, Prompt Engineering |
+| **LLM / GenAI** | RAG, Agentic Workflows, LLM Evaluation, OpenAI API, Embeddings, Vector Databases (Chroma), Structured Output Design, Prompt Engineering |
 | **ML / NLP** | scikit-learn, XGBoost, NLP, Transformers, Time Series Forecasting |
 | **Analytics & BI** | BigQuery, Looker Studio, Power BI, EDA, Feature Engineering, Data Visualization |
-| **Deployment** | Docker, MLflow, Google Cloud Run, Vercel, Git, GitHub |
-| **AI-Assisted Dev** | Cursor, Claude Code, GitHub Copilot |
+| **Deployment & MLOps** | Docker, MLflow, Google Cloud Run, Vercel, Git, GitHub |
+| **AI-Assisted Dev** | Cursor, Claude Code |
 
 ---
 
