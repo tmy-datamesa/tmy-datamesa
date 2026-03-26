@@ -2,9 +2,9 @@
 
 *I build intelligent systems with deliberate intent.*
 
-My background is not a straight line—it's an intersection. I hold an **MBA and an MSc in Construction Management**, and my career spans **civil engineering, financial risk analytics, underwriting, and applied AI**. 
+I am an independent researcher, builder, and system designer. My background is not a straight line—it's an intersection. I hold an **MBA and an MSc in Construction Management**, and my career spans **civil engineering, financial risk analytics, underwriting, and applied AI**. 
 
-I am interested in designing AI systems around real needs. I focus on **agentic workflows, context engineering, and practical architecture decisions**, building things that are analytically sound and actually useful in the face of uncertainty.
+I don't just write code; I design ecosystems. I focus on **agentic workflows, context engineering, and practical architecture decisions**, building products that are analytically sound and actually useful in the face of uncertainty. I partner with forward-thinking teams that value collaboration, continuous learning, and non-toxic growth.
 
 *Embrace AI’s potential, manage its risks carefully and remember the humans using it. ✨*
 
@@ -14,7 +14,7 @@ I am interested in designing AI systems around real needs. I focus on **agentic 
 
 I believe that to understand AI, you first need to understand people, and then you need to understand money. My approach to engineering is deeply holistic:
 
-- **Product & Stakeholder Focus:** Having bridged the gap between lenders and investors, managed clients, and built cash flow scenarios, I don't just write code. I build solutions that make business sense.
+- **Product & Stakeholder Focus:** Having bridged the gap between lenders and investors, managed clients, and built cash flow scenarios, I build solutions that make business sense. I design for the end-user, not just the compiler.
 - **Risk & Project Management:** My background in underwriting and construction management taught me how to navigate uncertainty, manage crises, and plan for the worst-case scenario. I apply this same rigor to AI system design.
 - **Architecture follows need:** I build agentic workflows and routing systems not because they are trendy, but because complex problems require dynamic, context-aware solutions.
 - **Evaluation is design, not an afterthought:** I treat evaluation (like RAGAS or MLflow tracking) as a fundamental part of the system architecture, ensuring faithfulness and relevance from day one.
@@ -40,7 +40,7 @@ I also believe in learning by shipping and sharing. I run a YouTube channel call
 
 ---
 
-### 🔬 Featured Projects
+### 🔬 Featured Products & Projects
 
 ### [kmk-deploy](https://github.com/tmy-datamesa/kmk-deploy) — Multi-Law Legal RAG Agent ⚖️
 > AI legal assistant for Turkish condominium and neighborhood law. Agentic RAG architecture with 6 separate law sources.
