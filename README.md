@@ -1,6 +1,6 @@
 # Hi there, I'm Tümay! 👋 
 
-*I build intelligent systems with deliberate intent.*
+*I design AI systems by starting from the problem, not the model.*
 
 I am an independent researcher, builder, and system designer. My background is not a straight line—it's an intersection. I hold an **MBA and an MSc in Construction Management**, and my career spans **civil engineering, financial risk analytics, underwriting, and applied AI**. 
 
