@@ -23,7 +23,7 @@ My approach to engineering is deeply holistic:
 
 ### 🌍 Beyond Code
 
-Technology doesn't exist in a vacuum. My interest in **history, philosophy, and anthropology** deeply influences how I approach AI. I focus on building systems that respect human attention and augment reasoning rather than replace it.
+Technology doesn't exist in a vacuum. My interest in **psychology, neuroscience, philosophy, and history** deeply influences how I approach AI. I focus on building systems that respect human attention and augment reasoning rather than replace it.
 
 Some of my work and thinking is shared through **[Data Masası](https://www.youtube.com/@DataMasasi)**.
 
