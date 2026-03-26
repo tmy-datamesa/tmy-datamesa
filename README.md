@@ -2,18 +2,22 @@
 
 *I build intelligent systems with deliberate intent.*
 
-My background spans **civil engineering, risk analytics, and applied AI**. I am interested in designing AI systems around real needs—especially **agentic workflows, context engineering, evaluation, and practical architecture decisions**. I focus on building things that are analytically sound and actually useful in the face of uncertainty.
+My background is not a straight line—it's an intersection. I hold an **MBA and an MSc in Construction Management**, and my career spans **civil engineering, financial risk analytics, underwriting, and applied AI**. 
+
+I am interested in designing AI systems around real needs. I focus on **agentic workflows, context engineering, and practical architecture decisions**, building things that are analytically sound and actually useful in the face of uncertainty.
 
 *Embrace AI’s potential, manage its risks carefully and remember the humans using it. ✨*
 
 ---
 
-### 🧠 How I Build (The Systems Mindset)
+### 🧠 The Intersection (Business, People, and AI)
 
-I don't just stack tools; I design systems. My approach to AI engineering is rooted in a few core principles:
+I believe that to understand AI, you first need to understand people, and then you need to understand money. My approach to engineering is deeply holistic:
+
+- **Product & Stakeholder Focus:** Having bridged the gap between lenders and investors, managed clients, and built cash flow scenarios, I don't just write code. I build solutions that make business sense.
+- **Risk & Project Management:** My background in underwriting and construction management taught me how to navigate uncertainty, manage crises, and plan for the worst-case scenario. I apply this same rigor to AI system design.
 - **Architecture follows need:** I build agentic workflows and routing systems not because they are trendy, but because complex problems require dynamic, context-aware solutions.
 - **Evaluation is design, not an afterthought:** I treat evaluation (like RAGAS or MLflow tracking) as a fundamental part of the system architecture, ensuring faithfulness and relevance from day one.
-- **Learning by shipping:** I believe in building to learn. I iterate through uncertainty, moving from basic prototypes to production-ready deployments, refining the context and structure at each step.
 
 ### 🌍 Beyond Code
 
