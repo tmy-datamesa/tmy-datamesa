@@ -47,28 +47,31 @@ Technology doesn't exist in a vacuum. My interest in **history, philosophy, and 
 
 ---
 
-### [Linkedin-Job-Tracker](https://github.com/tmy-datamesa/Linkedin-Job-Tracker) — AI-Powered Job Hunting Automation 🎯
-> Pragmatic automation tool that scrapes LinkedIn listings, filters with GPT-4o-mini against custom CV criteria, and logs qualified matches to Google Sheets.
-
-- **The Approach:** Built to solve a personal pain point. Demonstrates how to use AI practically for daily workflows, combining web scraping with LLM-based filtering.
-- **Stack:** `Python` `Playwright` `OpenAI API` `Google Sheets API`
-
----
-
 ### [yt-insight-hub](https://github.com/tmy-datamesa/yt-insight-hub) — YouTube Comment Analytics Pipeline 🎥
 > End-to-end pipeline that turns YouTube comments into structured sentiment, topic, and aspect-level insights.
 
-- **Pipeline:** YouTube API → BigQuery (raw/core/ml layers) → LLM inference (GPT-4o-mini) → Streamlit dashboard + Looker Studio
-- **NLP output per comment:** General sentiment, topic classification, aspect-based sentiment with evidence, strategic signals (purchase intent, competitor comparison, questions)
+- **The Challenge:** Social media feedback is unstructured, noisy, and hard to quantify for product decisions.
+- **The Decision:** Designed a 3-layer BigQuery schema (raw/core/ml) and used GPT-4o-mini to extract not just sentiment, but *strategic signals* (purchase intent, competitor comparison). This turns qualitative noise into quantitative BI metrics.
+- **Pipeline:** YouTube API → BigQuery → LLM inference → Streamlit dashboard + Looker Studio
 - **Stack:** `Python` `OpenAI` `BigQuery` `Streamlit` `Looker Studio` `YouTube API`
 - **Live:** [Looker Dashboard](https://lookerstudio.google.com/s/gbf4u5q04WM)
+
+---
+
+### [Linkedin-Job-Tracker](https://github.com/tmy-datamesa/Linkedin-Job-Tracker) — AI-Powered Job Hunting Automation 🎯
+> Pragmatic automation tool that scrapes LinkedIn listings, filters with GPT-4o-mini against custom CV criteria, and logs qualified matches to Google Sheets.
+
+- **The Challenge:** Job hunting involves repetitive manual filtering of irrelevant listings.
+- **The Decision:** Built a local automation script to solve a personal pain point. It demonstrates how to use AI practically for daily workflows, combining web scraping with LLM-based structured output filtering.
+- **Stack:** `Python` `Playwright` `OpenAI API` `Google Sheets API`
 
 ---
 
 ### [steam-dataset-2025-insights](https://github.com/tmy-datamesa/steam-dataset-2025-insights) — Steam Market Analysis & Price Prediction 🎮
 > Data-driven market analysis and price prediction for 240k+ Steam games. EDA, segmentation, and ML pipeline.
 
-- **Scope:** Exploratory data analysis on 240k+ games, customer segmentation, price prediction modeling, time series forecasting with Prophet
+- **The Challenge:** Understanding pricing dynamics in a massive, highly skewed digital marketplace.
+- **The Decision:** Applied rigorous exploratory data analysis before modeling. Used Prophet for time series forecasting and dbt for structured data transformation, treating data quality as the primary driver of model performance.
 - **Stack:** `Python` `Pandas` `scikit-learn` `Prophet` `dbt` `Jupyter`
 
 ---
@@ -76,7 +79,7 @@ Technology doesn't exist in a vacuum. My interest in **history, philosophy, and 
 ### [Data-Mesa-Focus](https://github.com/tmy-datamesa/Data-Mesa-Focus) — Focus Environment App 🌿
 > A minimal focus environment with music, night sky ambience, and reflective tools. Personal brand project.
 
-- **Philosophy:** "Flow — noise, slowly becoming rhythm. Ground — the mind, returning to itself. Space — thought, expanding into space."
+- **The Philosophy:** "Flow — noise, slowly becoming rhythm. Ground — the mind, returning to itself. Space — thought, expanding into space." An exercise in cognitive ergonomics.
 - **Stack:** `TypeScript` `Vercel`
 - **Live:** [thinkslow.vercel.app](https://thinkslow.vercel.app/)
 
