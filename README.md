@@ -25,8 +25,6 @@ My approach to engineering is deeply holistic:
 
 Technology doesn't exist in a vacuum. My interest in **psychology, neuroscience, philosophy, and history** deeply influences how I approach AI. I focus on building systems that respect human attention and augment reasoning rather than replace it.
 
-Some of my work and thinking is shared through **[Data Masası](https://www.youtube.com/@DataMasasi)**.
-
 ---
 
 ### 🛠️ Tech Stack & Focus 
