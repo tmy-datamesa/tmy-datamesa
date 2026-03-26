@@ -23,6 +23,8 @@ I believe that to understand AI, you first need to understand people, and then y
 
 Technology doesn't exist in a vacuum. My interest in **history, philosophy, and anthropology** deeply influences how I approach AI. When building systems like *Data Mesa*, I prioritize cognitive ergonomics—creating digital environments that respect human attention rather than exploiting it. I build tools that augment human reasoning, not replace it.
 
+I also believe in learning by shipping and sharing. I run a YouTube channel called **[Data Masası](https://www.youtube.com/@DataMasasi)**, where I create structured, end-to-end tutorials on SQL, BigQuery, and Looker Studio for the Turkish data community.
+
 ---
 
 ### 🛠️ Tech Stack & Focus 
