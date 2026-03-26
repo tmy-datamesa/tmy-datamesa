@@ -2,15 +2,18 @@
 
 *I build intelligent systems by thinking slowly.*
 
-My background spans **civil engineering, risk analytics, and applied AI**. I don't just train models; I design end-to-end workflows where structure, evaluation, and human context meet. From agentic RAG architectures to automated decision-support systems, I focus on building things that are **analytically sound** and **actually useful**.
+My background spans **civil engineering, risk analytics, and applied AI**. I am interested in designing AI systems around real needs—especially **agentic workflows, context engineering, evaluation, and practical architecture decisions**. I focus on building things that are analytically sound and actually useful in the face of uncertainty.
 
 *Embrace AI’s potential, manage its risks carefully and remember the humans using it. ✨*
 
 ---
 
-### 🧠 How I Build (The Iterative Mindset)
+### 🧠 How I Build (The Systems Mindset)
 
-I believe in building to learn. My work on the Legal RAG Assistant didn't start as a complex multi-agent system. It evolved through **6 distinct iterations**—from a basic vector search to a local Ollama deployment, and finally to a production-ready agentic routing system with MLflow tracking. I value the process of continuous refinement over overnight perfection.
+I don't just stack tools; I design systems. My approach to AI engineering is rooted in a few core principles:
+- **Architecture follows need:** I build agentic workflows and routing systems not because they are trendy, but because complex problems require dynamic, context-aware solutions.
+- **Evaluation is design, not an afterthought:** I treat evaluation (like RAGAS or MLflow tracking) as a fundamental part of the system architecture, ensuring faithfulness and relevance from day one.
+- **Learning by shipping:** I believe in building to learn. I iterate through uncertainty, moving from basic prototypes to production-ready deployments, refining the context and structure at each step.
 
 ### 🌍 Beyond Code
 
