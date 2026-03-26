@@ -4,7 +4,7 @@
 
 I am an independent researcher, builder, and system designer. My background is not a straight line—it's an intersection. I hold an **MBA and an MSc in Construction Management**, and my career spans **civil engineering, financial risk analytics, underwriting, and applied AI**. 
 
-I don't just write code; I design ecosystems. I focus on **agentic workflows, context engineering, and practical architecture decisions**, building products that are analytically sound and actually useful in the face of uncertainty. I partner with forward-thinking teams that value collaboration, continuous learning, and non-toxic growth.
+I don't just write code; I design ecosystems. I focus on **agentic workflows, context engineering, and practical architecture decisions**, building products that are analytically sound and actually useful in the face of uncertainty. I partner with forward-thinking teams that value high-trust collaboration and continuous learning.
 
 *Embrace AI’s potential, manage its risks carefully and remember the humans using it. ✨*
 
@@ -12,18 +12,20 @@ I don't just write code; I design ecosystems. I focus on **agentic workflows, co
 
 ### 🧠 The Intersection (Business, People, and AI)
 
-I believe that to understand AI, you first need to understand people, and then you need to understand money. My approach to engineering is deeply holistic:
+I believe that to understand AI, you first need to understand people, and then you need to understand money. I see AI systems as a continuation of human behavior and economic dynamics — not as isolated technical artifacts.
+
+My approach to engineering is deeply holistic:
 
 - **Product & Stakeholder Focus:** Having bridged the gap between lenders and investors, managed clients, and built cash flow scenarios, I build solutions that make business sense. I design for the end-user, not just the compiler.
 - **Risk & Project Management:** My background in underwriting and construction management taught me how to navigate uncertainty, manage crises, and plan for the worst-case scenario. I apply this same rigor to AI system design.
 - **Architecture follows need:** I build agentic workflows and routing systems not because they are trendy, but because complex problems require dynamic, context-aware solutions.
-- **Evaluation is design, not an afterthought:** I treat evaluation (like RAGAS or MLflow tracking) as a fundamental part of the system architecture, ensuring faithfulness and relevance from day one.
+- **Evaluation is design, not an afterthought:** I treat evaluation as a fundamental part of the system architecture, ensuring faithfulness and relevance from day one.
 
 ### 🌍 Beyond Code
 
-Technology doesn't exist in a vacuum. My interest in **history, philosophy, and anthropology** deeply influences how I approach AI. When building systems like *Data Mesa*, I prioritize cognitive ergonomics—creating digital environments that respect human attention rather than exploiting it. I build tools that augment human reasoning, not replace it.
+Technology doesn't exist in a vacuum. My interest in **history, philosophy, and anthropology** deeply influences how I approach AI. I focus on building systems that respect human attention and augment reasoning rather than replace it.
 
-I also believe in learning by shipping and sharing. I run a YouTube channel called **[Data Masası](https://www.youtube.com/@DataMasasi)**, where I create structured, end-to-end tutorials on SQL, BigQuery, and Looker Studio for the Turkish data community.
+Some of my work and thinking is shared through **[Data Masası](https://www.youtube.com/@DataMasasi)**.
 
 ---
 
@@ -83,7 +85,7 @@ I also believe in learning by shipping and sharing. I run a YouTube channel call
 ---
 
 ### [Data-Mesa-Focus](https://github.com/tmy-datamesa/Data-Mesa-Focus) — Focus Environment App 🌿
-> A minimal focus environment with music, night sky ambience, and reflective tools. Personal brand project.
+> Minimal focus environment designed around cognitive ergonomics.
 
 - **The Philosophy:** "Flow — noise, slowly becoming rhythm. Ground — the mind, returning to itself. Space — thought, expanding into space." An exercise in cognitive ergonomics.
 - **Stack:** `TypeScript` `Vercel`
