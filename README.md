@@ -1,6 +1,6 @@
 # Hi there, I'm Tümay! 👋 
 
-*I build intelligent systems by thinking slowly.*
+*I build intelligent systems with deliberate intent.*
 
 My background spans **civil engineering, risk analytics, and applied AI**. I am interested in designing AI systems around real needs—especially **agentic workflows, context engineering, evaluation, and practical architecture decisions**. I focus on building things that are analytically sound and actually useful in the face of uncertainty.
 
@@ -83,6 +83,6 @@ Technology doesn't exist in a vacuum. My interest in **history, philosophy, and 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tmy-datamesa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmy-datamesa&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tmy-datamesa&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=2f81f7&text_color=58a6ff&icon_color=2f81f7" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmy-datamesa&layout=compact&theme=transparent&hide_border=true&title_color=2f81f7&text_color=58a6ff" height="165" />
 </p>
