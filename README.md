@@ -87,7 +87,7 @@ Technology doesn't exist in a vacuum. My interest in **psychology, neuroscience,
 
 - **The Philosophy:** "Flow — noise, slowly becoming rhythm. Ground — the mind, returning to itself. Space — thought, expanding into space." An exercise in cognitive ergonomics.
 - **Stack:** `TypeScript` `Vercel`
-- **Live:** [thinkslow.vercel.app](https://thinkslow.vercel.app/)
+- **Live:** [thinkslow.vercel.app](https://thinkslow.app/)
 
 ---
 
