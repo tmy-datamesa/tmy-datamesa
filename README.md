@@ -24,9 +24,7 @@ One small expression of that: [thinkslow.app](https://thinkslow.app) — a minim
 
 **[kmk-deploy](https://github.com/tmy-datamesa/kmk-deploy)** &nbsp; ⚖️ &nbsp; [Live](https://kmk-deploy-csnu3xbifrnaixgypfsa93.streamlit.app/)
 
-Legal RAG agent for Turkish condominium law. Standard retrieval wasn't precise enough, so I built an agentic router that decides which law source to query first — the way a lawyer actually thinks.
-
-**Faithfulness: 0.20 → 0.59**
+RAG agent for Turkish condominium law. Agentic router that selects the right law source before retrieval.
 
 ![Python](https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&logo=python&logoColor=818CF8)
 ![LangChain](https://img.shields.io/badge/-LangChain-1a1a2e?style=flat-square&logo=langchain&logoColor=818CF8)
@@ -38,7 +36,7 @@ Legal RAG agent for Turkish condominium law. Standard retrieval wasn't precise e
 
 **[yt-insight-hub](https://github.com/tmy-datamesa/yt-insight-hub)** &nbsp; 📊 &nbsp; [Dashboard](https://lookerstudio.google.com/u/0/reporting/878bac81-1088-4054-9b97-d36c1c8c0f95?s=gbf4u5q04WM)
 
-Turns raw YouTube comments into sentiment, purchase intent, and competitive signals. 3-layer BigQuery schema (raw / core / ml), Looker Studio dashboards for business users.
+YouTube comment pipeline → sentiment, purchase intent, competitive signals. BigQuery + Looker Studio.
 
 ![Python](https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&logo=python&logoColor=818CF8)
 ![BigQuery](https://img.shields.io/badge/-BigQuery-1a1a2e?style=flat-square&logo=googlebigquery&logoColor=818CF8)
@@ -51,7 +49,7 @@ Turns raw YouTube comments into sentiment, purchase intent, and competitive sign
 
 **[housingscope](https://github.com/tmy-datamesa/housingscope)** &nbsp; 🏠 &nbsp; [Live](https://datamesa.dev/housingscope)
 
-Turkish real estate market analytics. Automated data pipeline into Snowflake, FastAPI backend, interactive dashboard tracking price trends, regional shifts and market signals.
+Turkish real estate analytics. Automated pipeline into Snowflake, FastAPI backend, live dashboard.
 
 ![Python](https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&logo=python&logoColor=818CF8)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-1a1a2e?style=flat-square&logo=snowflake&logoColor=818CF8)
@@ -62,9 +60,7 @@ Turkish real estate market analytics. Automated data pipeline into Snowflake, Fa
 
 **[steam-dataset-2025](https://github.com/tmy-datamesa/steam-dataset-2025-insights)** &nbsp; 🎮 &nbsp; [Dashboard](https://lookerstudio.google.com/u/0/reporting/14eafbaa-cbb1-4a15-baf2-8e5f128a12e3)
 
-Market analytics and price prediction across 240K+ games. EDA, segmentation, ML pipeline.
-
-**R² +47% · MAE −93%**
+Price prediction across 240K+ Steam games. EDA, segmentation, XGBoost pipeline.
 
 ![Python](https://img.shields.io/badge/-Python-1a1a2e?style=flat-square&logo=python&logoColor=818CF8)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-1a1a2e?style=flat-square&logo=xgboost&logoColor=818CF8)
