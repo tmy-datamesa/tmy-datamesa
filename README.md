@@ -4,11 +4,7 @@
 
 Hi there, I’m Tumay! 👋
 
-Construction engineering, financial risk, MBA — and now AI. Not a straight path, but a consistent one: each step taught me how to work with uncertainty.
-
-I look at technology through the lens of people and systems. My interest in psychology, history and neuroscience isn’t incidental — it shapes how I think about building things.
-
-Right now I’m focused on **LLM-powered systems, agentic workflows** and data infrastructure that holds up in production.
+I’m focused on **LLM-powered systems, agentic workflows** and data infrastructure that holds up in production.
 
 One small expression of that: [thinkslow.app](https://thinkslow.app) — a minimal space for slowing down thought. 🔗
 
