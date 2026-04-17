@@ -104,3 +104,28 @@ Price prediction across 240K+ Steam games. EDA, segmentation, XGBoost pipeline.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:90e0ef,20:00b4d8,50:0a4fa8,75:3d0070,100:0a0014&height=90&section=footer&animation=twinkling&reversal=false" width="100%"/>
+
+
+
+### ◈ &nbsp; GitHub
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmy-datamesa&show_icons=true&theme=transparent&hide_border=false&border_color=3d0070&title_color=818CF8&text_color=90e0ef&icon_color=00b4d8&rank_icon=github)](https://github.com/tmy-datamesa)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmy-datamesa&layout=compact&theme=transparent&hide_border=false&border_color=3d0070&title_color=818CF8&text_color=90e0ef)](https://github.com/tmy-datamesa)
+
+</div>
+
+<p align="center">
+  <sub>Selected signals from my GitHub activity</sub>
+</p>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tmy-datamesa&bg_color=0d1117&color=818CF8&line=00b4d8&point=90e0ef&area=true&area_color=0a4fa8&hide_border=false&border_color=3d0070&radius=6&custom_title=contribution%20activity)](https://github.com/tmy-datamesa)
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tmy-datamesa&background=0d1117&stroke=3d0070&ring=818CF8&fire=00b4d8&currStreakLabel=818CF8&sideLabels=818CF8&dates=8899aa&currStreakNum=90e0ef&sideNums=818CF8&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://github.com/tmy-datamesa)
+
+</div>
+
