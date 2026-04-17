@@ -98,8 +98,3 @@ Price prediction across 240K+ Steam games. EDA, segmentation, XGBoost pipeline.
 </div>
 
 ---
-
-<div align="center">
-<sub><a href="https://tmy-datamesa.github.io">tmy-datamesa.github.io</a></sub>
-</div>
-
