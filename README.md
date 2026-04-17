@@ -103,9 +103,3 @@ Price prediction across 240K+ Steam games. EDA, segmentation, XGBoost pipeline.
 <sub><a href="https://tmy-datamesa.github.io">tmy-datamesa.github.io</a></sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:90e0ef,20:00b4d8,50:0a4fa8,75:3d0070,100:0a0014&height=90&section=footer&animation=twinkling&reversal=false" width="100%"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tmy-datamesa&background=0d1117&stroke=3d0070&ring=818CF8&fire=00b4d8&currStreakLabel=818CF8&sideLabels=818CF8&dates=8899aa&currStreakNum=90e0ef&sideNums=818CF8&border_radius=6&date_format=j%20M%5B%20Y%5D)](https://github.com/tmy-datamesa)
-
-</div>
-
