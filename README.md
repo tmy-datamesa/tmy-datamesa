@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,25:3d0070,55:0a4fa8,80:00b4d8,100:90e0ef&height=90&section=header&animation=twinkling&reversal=false" width="100%"/>
 </div>
-
 Hi there, I’m Tumay! 👋
 
 I’m focused on **LLM-powered systems, agentic workflows** and data infrastructure that holds up in production.
@@ -97,5 +96,4 @@ Price prediction across 240K+ Steam games. EDA, segmentation, XGBoost pipeline.
 </td>
 </tr>
 </table>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:90e0ef,20:00b4d8,50:0a4fa8,75:3d0070,100:0a0014&height=90&section=footer&animation=twinkling&reversal=false" width="100%"/>
