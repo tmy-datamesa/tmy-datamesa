@@ -5,7 +5,7 @@ Hi there, I’m Tumay! 👋
 
 I’m focused on **LLM-powered systems, agentic workflows** and data infrastructure that holds up in production.
 
-One small expression of that: [thinkslow.app](https://thinkslow.app) — a minimal space for slowing down thought. 🔗
+One small expression of that: [thinkslow.app](https://thinkslow.app) — a minimal space for slowing down thought.
 
 > *"Flow — noise, slowly becoming rhythm. Ground — the mind, returning to itself. Space — thought, expanding into space."*
 
