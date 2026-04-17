@@ -103,3 +103,5 @@ Price prediction across 240K+ Steam games. EDA, segmentation, XGBoost pipeline.
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:90e0ef,20:00b4d8,50:0a4fa8,75:3d0070,100:0a0014&height=90&section=footer&animation=twinkling&reversal=false" width="100%"/>
