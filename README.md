@@ -10,8 +10,6 @@ One small expression of that: [thinkslow.app](https://thinkslow.app) — a minim
 
 > *"Flow — noise, slowly becoming rhythm. Ground — the mind, returning to itself. Space — thought, expanding into space."*
 
----
-
 ### ◈ &nbsp; Selected projects
 
 <table>
@@ -66,8 +64,6 @@ Price prediction across 240K+ Steam games. EDA, segmentation, XGBoost pipeline.
 </tr>
 </table>
 
----
-
 ### ◈ &nbsp; Stack
 
 <div align="center">
@@ -84,8 +80,6 @@ Price prediction across 240K+ Steam games. EDA, segmentation, XGBoost pipeline.
 ![Looker](https://img.shields.io/badge/Looker-1a1a2e?style=flat-square&logo=looker&logoColor=818CF8)
 
 </div>
-
----
 
 ### ◈ &nbsp; GitHub
 
